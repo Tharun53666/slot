@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 <html>
      <head>
         <title>slot timetable</title>
@@ -62,7 +63,6 @@ Execute the program using runserver command.
       <tr align="center">
         <th bgcolor="yellow">12-1</th>
         <td colspan="5" align="center">LUNCH</td>
-        
       </tr>
       <tr align="center">
         <th bgcolor="yellow">1-3</th>
